@@ -14,7 +14,6 @@
 
 <body>
 	<div id="header">
-    <h1>Oblivion</h1>
 		<div class="header-image" style="background-image: url(<?php echo $artifact->attributes['image'];?>)">
 			<span class="header-title-container"><?php echo $artifact->attributes['image name'];?></span>
 		</div>
