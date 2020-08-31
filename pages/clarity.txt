@@ -5,8 +5,9 @@ image: index
 title: Welcome to Clarity
 
 content:
-Hey you! Yes, you! There's a game here! Find the pages on this website that have music clips or images. Most of them will have a secret code! Find the secret codes, go to the @[Rampage Room>rampage-room.html], type in the codes, and, if you're right, then you'll be able to see all of my projects that haven't been finished yet! 
+Hey you! Yes, you! There's a game here! Find the pages on this website that have music clips or images. Most of them will have a secret code! Find the secret codes, go to the @[Rampage Room>rampage-room.html], type in the codes, and, if you're right, then you'll be able to see all of my projects that haven't been finished yet!
++
 +
 Where would you like to go today?
 +
-#[404]
+- #[404]
