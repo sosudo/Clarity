@@ -1,6 +1,6 @@
 name: 404
 
-image: example>404
+image: 404
 
 image name: #[404]
 

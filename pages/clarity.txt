@@ -1,0 +1,10 @@
+name: Clarity
+
+image: index
+
+title: Welcome to Clarity
+
+content:
+Where would you like to go today?
++
+#[404]
