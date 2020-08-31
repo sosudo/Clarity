@@ -1,5 +1,22 @@
+:root{
+  --text:#000;
+  --color:#eee;
+  --after:#777;
+  --scroll:#bbb;
+  --def:#fff;
+}
+/*
+@media(prefers-color-scheme:dark){
+  :root{
+    --text:#eee;
+    --color:#000;
+    --after:#fff;
+    --scroll:#bbb;
+    --def:#000;
+  }
+} */
 /*-----------GENERAL-----------*/
-html {
+/*html {
 	box-sizing: border-box;
 	font-weight: 400;
 	padding: 0;
@@ -9,13 +26,14 @@ html {
 *,:before,:after {
 	box-sizing: inherit;
 	font-weight: inherit;
-}
+}*/
 
 body {
 	font-family: "Roboto";
-	color: #000;
-	background-color: #eee;
+	color: var(--text);
+	background-color: var(--color);
 	overflow-x: hidden;
+  -webkit-overflow-scrolling: hidden;
 }
 
 p {
@@ -35,7 +53,7 @@ h1 {
 a {
 	display: inline;
 	text-decoration: none;
-	color: #000;
+	color: var(--text);
 	font-weight: 700;
 }
 
@@ -44,8 +62,8 @@ a:hover {
 }
 
 a.external:after {
-	content: "~";
-	color: #777;
+	content: "";
+	color: var(--after);
 }
 
 .neutral-link {
@@ -58,22 +76,22 @@ a.external:after {
 }
 
 ::-moz-selection {
-	color: #000;
-	background: #eee;
+	color: var(--text);
+	background: var(--color);
 }
 
 ::selection {
-	color: #000;
-	background: #eee;
+	color: var(--text);
+	background: var(--color);
 }
 
 ::-webkit-scrollbar {
 	width: 6px;
-	background-color: #eee;
+	background-color: var(--color);
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: #bbb;
+	background-color: var(--scroll);
 }
 
 /*-----------MEDIA-----------*/
@@ -81,22 +99,22 @@ a.external:after {
 	width: 100%;
 	height: 500px;
 	border-radius: 2px;
-	border: solid 1px #eee;
+	border: solid 1px var(--color);
 }
 
 /*-----------HEADER-----------*/
 #header {
 	position: relative;
-	max-width: 900px;
+	max-width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 80px;
-	height: 500px;
-	border-left: solid 1px #eee;
-	border-right: solid 1px #eee;
-	border-top: solid 1px #eee;
-	border-bottom: solid 1px #eee;
-	background-color: #fff;
+	margin-top: 0px;
+	height: calc(100vh - 160px);
+	border-left: solid 1px var(--color);
+	border-right: solid 1px var(--color);
+	border-top: solid 1px var(--color);
+	border-bottom: solid 1px var(--color);
+	background-color: var(--def);
 }
 
 .header-image {
@@ -120,26 +138,26 @@ a.external:after {
 	position: relative;
 	width: 100%;
 	z-index: 1;
-	border-top: solid 1px #eee;
-	border-bottom: solid 1px #eee;
+	border-top: solid 1px var(--color);
+	border-bottom: solid 1px var(--color);
 }
 
 #body-content {
-	max-width: 900px;
+	max-width: 100%;
 	margin: auto;
 	padding-top: 40px;
-	background-color: #fff;
-	border-left: solid 1px #eee;
-	border-right: solid 1px #eee;
+	background-color: var(--def);
+	border-left: solid 1px var(--color);
+	border-right: solid 1px var(--color);
 }
 
 #title {
-	max-width: 900px;
+	max-width: 100%;
 	margin: auto;
 	padding: 40px 40px 40px 40px;
-	background-color: #fff;
-	border-left: solid 1px #eee;
-	border-right: solid 1px #eee;
+	background-color: var(--def);
+	border-left: solid 1px var(--color);
+	border-right: solid 1px var(--color);
 	overflow: auto;
 }
 
@@ -155,7 +173,7 @@ a.external:after {
 	width: 100%;
 	height: 1px;
 	margin-bottom: 40px;
-	background-color: #eee;
+	background-color: var(--color);
 }
 
 .text-image {
@@ -214,11 +232,11 @@ a.external:after {
 .note {
 	width: calc(100% - 80px);
 	padding: 40px 40px 40px 40px;
-	border-bottom: solid 40px #fff;
+	border-bottom: solid 40px var(--def);
 	margin: 0 40px 0 40px;
 	font-family: "Roboto Mono";
 	font-size: 13px;
-	background-color: #eee;
+	background-color: var(--color);
 }
 
 .quote {
@@ -229,7 +247,7 @@ a.external:after {
 	font-style: italic;
 	font-size: 20px;
 	line-height: 36px;
-	border-left: solid 1px #eee;
+	border-left: solid 1px var(--color);
 }
 
 .path {
@@ -282,11 +300,11 @@ a.external:after {
     overflow: auto;
     padding: 40px;
 	margin: auto;
-	border-left: solid 1px #eee;
-	border-right: solid 1px #eee;
-	border-bottom: solid 1px #eee;
+	border-left: solid 1px var(--color);
+	border-right: solid 1px var(--color);
+	border-bottom: solid 1px var(--color);
 	margin-bottom: 80px;
-	background-color: #fff;
+	background-color: var(--def);
 }
 
 /*-----------MEDIA-----------*/
