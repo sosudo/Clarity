@@ -8,7 +8,7 @@
 	<title>Clarity</title>
 	<link rel="icon"
       type="image/png"
-      href="assets/media/images/favicon.png">
+      href="media/images/favicon.png">
 	<!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css"> -->
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700|Roboto+Mono">
 	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?">
