@@ -1,9 +1,9 @@
 :root{
-  --text:#000;
-  --color:#eee;
-  --after:#777;
-  --scroll:#bbb;
-  --def:#fff;
+  --text:#3B4252;
+  --color:#D8DEE9;
+  --after:#4C566A;
+  --scroll:#E5E9F0;
+  --def:#ECEFF4;
 }
 /*
 @media(prefers-color-scheme:dark){
