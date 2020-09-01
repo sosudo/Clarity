@@ -3,7 +3,7 @@
   --color:#cfcdd1;
   --after:#4C566A;
   --scroll:#E5E9F0;
-  --def:#ECEFF4;
+  --def:#cfcdd1;
 }
 @media(prefers-color-scheme:dark){
   :root{
@@ -11,7 +11,7 @@
     --color:#2c2e2f;
     --after:#ECEFF4;
     --scroll:#434C5E;
-    --def:#3B4252;
+    --def:#2c2e2f;
   }
 }
 /*-----------GENERAL-----------*/
