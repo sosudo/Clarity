@@ -5,16 +5,15 @@
   --scroll:#E5E9F0;
   --def:#ECEFF4;
 }
-/*
 @media(prefers-color-scheme:dark){
   :root{
-    --text:#eee;
-    --color:#000;
-    --after:#fff;
-    --scroll:#bbb;
-    --def:#000;
+    --text:#E5E9F0;
+    --color:#2c2e2f;
+    --after:#ECEFF4;
+    --scroll:#434C5E;
+    --def:#4C566A;
   }
-} */
+}
 /*-----------GENERAL-----------*/
 /*html {
 	box-sizing: border-box;
