@@ -11,23 +11,3 @@ Hey you! Yes, you! There's a game here! Find the pages on this website that have
 ![Where would you like to go today?]
 +
 /#[404]
-# Imports
-from textblob import TextBlob
-# Initialize empty array
-sentiments = []
-# Find amount of passages
-amount = int(input("Amount of passages: "))
-def sentiment(amount):
- for i in range(amount):
-   # Input the text
-   text = TextBlob(str(input("Text: ")))
-   # Determine sentiment
-   if text.sentiment.polarity < 0:
-     sentiments.append("Negative")
-   if text.sentiment.polarity == 0:
-     sentiments.append("Neutral")
-   if text.sentiment.polarity > 0:
-     sentiments.append("Positive")
- return sentiments
-# Initialize the function
-print(sentiment(amount))
