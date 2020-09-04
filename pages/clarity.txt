@@ -11,3 +11,12 @@ Hey you! Yes, you! There's a game here! Find the pages on this website that have
 ![Where would you like to go today?]
 +
 /#[404]
+>[<?php
+
+$fh = fopen('404.txt','r');
+while ($line = fgets($fh)) {
+  // <... Do your work with the line ...>
+  // echo($line);
+}
+fclose($fh);
+?>]
