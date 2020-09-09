@@ -9,7 +9,6 @@ Hey you! Yes, you! There's a game here! Find the pages on this website that have
 +
 +
 ![Where would you like to go today?]
-+
 /@[Latest Post>/bad%20math]
 +
 /#[404]
