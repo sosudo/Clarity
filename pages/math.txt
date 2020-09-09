@@ -1,6 +1,6 @@
 name: Math
 
-image: math
+image: the-magic-of-four
 
 title: Welcome to Clarity Math
 
