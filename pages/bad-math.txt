@@ -1,10 +1,11 @@
-name: Are you bad at math? Me too.
+name: Bad Math
 
 image: bad-math
 
-title: Are you bad at math? Me too.
+title: Bad Math
 
 content:
+?[_[Are you bad at math? Me too.]]
 Hi, yes, this is the most idiotic thing I've ever done. But it's ok! Also I'm pretty sure most of this math is incorrect! "Why did I do this?", you may be asking. Well, because I wanted to divide by 0. Then I was like, "I hate integration!" And so, here we are.
 +
 ![Number System]

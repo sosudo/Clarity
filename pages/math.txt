@@ -7,4 +7,4 @@ title: Welcome to Clarity Math
 content:
 ![What math article would you like to go today?]
 +
-/#[Are you bad at math? Me too.]
+/#[Bad Math]
