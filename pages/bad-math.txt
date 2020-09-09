@@ -77,7 +77,7 @@ No. No integration. Instead, it'll be called _[functional assimilation]. The con
 Indefinite integrals would be called _[unrestricted functional assimilations], denoted as f(A:x)[eq].
 Definite integrals would be called _[restricted functional assimilations], denoted as f(A: a->b, x)[eq] = f(A:x)[eq(b)+-eq(a)] = f(A:x)[eq(b)] +- f(A:x)[eq(a)].
 So, the indefinite integral of f(x) = x with respect to x would be written as f(A:x)[x] = (x^2)/2 + C.
-The definite integral of f(x) = x with respect to x from 1 to 2 would be written as f(A: 1->2, x)[x] = f(A:x)[x(2)+-x(1)] = f(A:x)[x(2)] + -f(A:x)[x(1)] = [(x^2)/2(2)]+-[(x^2)/2(1)] = (2^2)/2 +-1/2 = 2 +-1/2 = 3/2
+The definite integral of f(x) = x with respect to x from 1 to 2 would be written as f(A: 1->2, x)[x] = f(A:x)[x(2)+-x(1)] = f(A:x)[x(2)] + -f(A:x)[x(1)] = [(x^2)/2(2)] + -[(x^2)/2(1)] = (2^2)/2 +-1/2 = 2 +-1/2 = 3/2
 +
 ![Conclusion]
 Yeah, this was useless. But it was surprisingly fun to make, so here we are! Hope you enjoyed reading this, or at least laughed at this absurd nonsense.
