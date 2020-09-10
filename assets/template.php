@@ -15,7 +15,6 @@
 </head>
 
 <body>
-	<iframe src="https://tunein.com/embed/player/s249937?autoplay=true" style="width:0%; height:0%;" scrolling="no" frameborder="no"></iframe>
 	<div id="header">
 		<div class="header-image" style="background-image: url(<?php echo $artifact->attributes['image'];?>)">
 			<span class="header-title-container"><?php echo $artifact->attributes['image name'];?></span>
@@ -31,6 +30,7 @@
 			<?php echo $artifact->attributes['content'];?>
 		</div>
 	</div>
+		<iframe src="https://tunein.com/embed/player/s249937?autoplay=true" style="width:0%; height:0%;" scrolling="no" frameborder="no"></iframe>
 <script src="assets/requestscript.js"></script>
 </body>
 </html>
