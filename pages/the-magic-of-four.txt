@@ -7,15 +7,16 @@ title: The Magic of Four
 content:
 ?[_[What's the point of math after algebra? Absolutely nothing, my friend.]]
 ![Introduction]
-Hello again. This isn't as dumb as #[Bad Math] article, but I'll try to keep it as close to that as possible.
+Hello again. This isn't as dumb as the #[Bad Math] article, but I'll try to keep it as close to that as possible (in terms of idiocy and amusement).
 For some context, I was scrolling through @[Instagram>https://www.instagram.com/], and I found this meme page I follow, @[acf3301>https://www.instagram.com/acf3301/].
 He had something in his story, so I clicked on it and saw a meme that added S=1+2+3+4+... by grouping every number after 1 in groups of threes, like this: S=1+(2+3+4)+(5+6+7)+...
++
 After that, they added it all up, like this: S=1+9+18+27+...
 +
 Then they factored out 9 like this: S=1+9(1+2+3+4+5+...), which led them to S=1+9S, which meant that S=-1/8.
-This is much like the @[Ramanujan Summation>https://en.wikipedia.org/wiki/Ramanujan_summation].
-I saw this, and I went, "I wanna try this!"
-And so, here we are.
+This is much like how the @[Ramanujan Summation>https://en.wikipedia.org/wiki/Ramanujan_summation] works.
+I saw this and went, "I wanna try this!"
+So uh, here we are.
 +
 ![What Actually Happened]
 So I started off well (at least that's what I thought).
@@ -65,6 +66,6 @@ Also, this doesn't really have an application to anything, it's just amazing to 
 +
 _[Upload Date: September 9, 2020]
 +
-_[Revision Number: 1]
+_[Revision Number: 2]
 +
 _[Time: 9:35 PM EST]
