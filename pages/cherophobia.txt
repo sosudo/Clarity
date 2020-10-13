@@ -1,0 +1,22 @@
+name: Cherophobia
+
+image: cherophobia
+
+title: Cherophobia
+
+content:
+?[_[Aversion to happiness.]]
+![Introduction]
+Cherophobia is an aversion to happiness, a fear of happiness. In this song, I try to embody that feeling.
++
+^[sounds>Cherophobia.m4a ++ Cherophobia]
++
+![Conclusion]
+Yeah, this was useless. But it was surprisingly fun to make, so here we are! Hope you enjoyed reading this, or at least laughed at this absurd nonsense.
+I hope you have a great life! Bye!
++
+_[Upload Date: September 8, 2020]
++
+_[Revision Number: 6]
++
+_[Time: 10:10 PM EST]
