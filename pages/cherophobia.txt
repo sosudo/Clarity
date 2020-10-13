@@ -9,7 +9,7 @@ content:
 ![Introduction]
 Cherophobia is an aversion to happiness, a fear of happiness. In this song, I try to embody that feeling.
 +
-^[Cherophobia.m4a ++ Cherophobia]
+^[cherophobia.mp3 ++ Cherophobia]
 +
 ![Conclusion]
 Yeah, this was useless. But it was surprisingly fun to make, so here we are! Hope you enjoyed reading this, or at least laughed at this absurd nonsense.
