@@ -16,3 +16,5 @@ Hey you! Yes, you! There's a game here! Find the pages on this website that have
 /#[Math]
 +
 /#[Music]
++
+All works on this site are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License unless otherwise stated.

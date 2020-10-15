@@ -30,8 +30,6 @@
 			<?php echo $artifact->attributes['content'];?>
 		</div>
 	</div>
-		<!--<iframe src="https://tunein.com/embed/player/s249937?autoplay=true" style="width:0%; height:0%;" scrolling="no" frameborder="no"></iframe>-->
-		<iframe width="0" height="0" src="https://www.youtube.com/embed/5qap5aO4i9A?autoplay=1">
 </iframe>
 <script src="assets/requestscript.js"></script>
 </body>
