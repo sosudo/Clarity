@@ -11,9 +11,19 @@ title: _[$[self]] could not be found.
 content: This is the #[404] page. Seems like you tried to search for _[$[self]] and couldn't find it.
 +
 +
-Six other pages exist in this instance of #[Clarity].
-
+Ten other pages exist in this instance of #[Clarity].
++
 ![Other pages:]
+/@[Lucent Vault>/resources/index.html]
++
+/#[An Existential Lemon]
++
+/@[An Existential Lemon App>/resources/an-existential-lemon-app.py]
++
+/@[An Existential Lemon Requirements>/resources/an-existential-lemon-requirements.txt]
++
+/#[Philosophy]
++
 /#[Cherophobia]
 +
 /#[Music]

@@ -17,3 +17,5 @@ content:
 /#[Music]
 +
 /#[Philosophy]
++
+/@[Lucent Vault>/resources/index.html]
