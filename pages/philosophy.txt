@@ -7,4 +7,4 @@ title: Welcome to Clarity Philosophy
 content:
 ![What philosophy article would you like to go today?]
 +
-/#[The Magic of Four]
+/#[An Existential Lemon]
