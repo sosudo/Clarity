@@ -1,0 +1,81 @@
+name: An Existential Lemon
+
+image: an-existential-lemon
+
+title: An Existential Lemon
+
+content:
+?[_[When someone tells you to expect the unexpected, slap them in the face and ask them if they expected it.]]
+![Introduction]
+Hello again. Over the summer, during Coronacation, I asked 31 of my friends about why and how we exist. Some gave enormous answers, some gave one word answers. Some had religious answers, some had scientific answers, while some others were just confused. By the end of this, I wanted to find out how people felt about this topic. So, here we are.
++
+![Answers]
+First of all, here are some of the answers I got. I won't disclose all of them due to privacy concerns, however I will share my answer, my friend Xander's answer, and my friend Reid's answer (don't worry, I asked them if I could use their answers).
++
+1. "Well for the latter part, do we really need to know? Because the simple fact is, we’re not gonna change if we know who created us or how they did it. We’re gonna continue living the way we did. We’re going to continue loving our friends and family, we’re going to continue to get hurt, to fall in love, to cry, to smile, to laugh, to scream, to both enjoy and despise life at moments. If we learn that there is a god that created us, what are we going to do with that information? Nothing. So then why do we constantly ask how we exist? Why, since the dawn of civilization at the Euphrates River, have humans asked this all important question? Why have we created deities and religions trying to explain who made us or how we exist? Well, because we think it’ll help us learn why we exist. Because we think that if we find this god(s), we’ll find out exactly why they created us. To that end, I say shouldn’t we be the ones deciding why we exist? Every choice we make defines who we are. Every friend we make and every teacher we’ve ever had defines who we are. Our families and unique experiences define who we are. So then why should we be looking for a reason to exist when we could just as easily make one of our own liking? Humans are one of the rare species  who were given the intelligence to question themselves, and the world around them. We have the ability to make choices and genuinely think about their consequences. So let’s use it. Let’s use this amazing biological miracle of sentience we have, and make our own purposes, our own futures, and our own destinies. We can either live in an endless loop of questions, where we question ourselves and our very existence. Or we could go out there, enjoy our lives, be truly happy, and choose our own purpose. So then, what’s the meaning of life? To live it’s what I’m guessing.
+" - me
++
+2. "As for why, to further God's amusement. As for how, God." - Xander
++
+3. "I think we exist purely based on science itself. I don’t think there’s a reason I just think that it happened and will end eventually and probably happen again. I personally don’t think we were created by anything. I think we were a freak accident of evolution. The only reason I see is because everything happens for a reason." - Reid
++
+![Execution]
+Since I wanted to see how people felt, I chose to do an emotional analysis on the answers.
++
+I used IBM Watson's Natural Language Understanding API to conduct the analysis, and I wrote it in Python 3.
++
+Here is the requirements.txt file for my code: #[An Existential Lemon - Requirements]
++
+Here is the app.py file for my code: #[An Existential Lemon - App]
++
+![Angles]
+The standard unit of angles (and in turn, slopes) would be a _[Radial Unit], denoted as Ru.
++
+1. 0 degrees = 1 Ru
++
+2. 30 degrees = 4/3 Ru
++
+3. 45 degrees = 3/2 Ru
++
+4. 60 degrees = 5/3 Ru
++
+5. 90 degrees = 2 Ru
++
+6. 180 degrees = 3 Ru
++
+7. 270 degrees = 4 Ru
++
+8. 360 degrees = 1 Ru
++
+![Dividing by Zero]
+In this number system, 0 would not exist. And, as previously stated,  any number less than one equals -∞ and any number greater than one equals ∞, we get that 0 in the regular system is equal to -∞ in this one.
+Since any constant divided by ∞ or -∞ is 0, and this number system doesn't have a zero, we define a new number N. N stands for ‘the Null Number’, which would be defined as a valueless number, much like how a zero acts in the regular system.
+Another property of this null number would be that when it is multiplied by an infinity, it equals L.
+L is defined as the “Boundless Number”, and it can be any number, much like a variable. However, L would not obey any normal or algebraic laws. Both L and N would be part of a new number set called “ the Classless Numbers”, denoted as C = {L, N}.
++
+From all of the above:
++
+Given a constant c, c/0 in the traditional system is c/-∞. c/-∞ in the traditional system is 0, but sense there is no zero in this one, c/-∞ = N.
++
+N*-∞ = L and L = any number from B.
++
+From all of the above:
++
+Our entire number system, denoted as R, is R = CUB (R is the union of sets C and B).
++
+![Integration]
+No. No integration. Instead, it'll be called _[functional assimilation]. The constant of integration would be the constant of assimilation.
+Indefinite integrals would be called _[unrestricted functional assimilations], denoted as f(A:x)[eq].
+Definite integrals would be called _[restricted functional assimilations], denoted as f(A: a->b, x)[eq] = f(A:x)[eq(b)+-eq(a)] = f(A:x)[eq(b)] +- f(A:x)[eq(a)].
+So, the indefinite integral of f(x) = x with respect to x would be written as f(A:x)[x] = (x^2)/2 + C.
+The definite integral of f(x) = x with respect to x from 1 to 2 would be written as f(A: 1->2, x)[x] = f(A:x)[x(2)+-x(1)] = f(A:x)[x(2)] + -f(A:x)[x(1)] = (2^2)/2 +-1/2 = 2 +-1/2 = 3/2.
++
+![Conclusion]
+Yeah, this was useless. But it was surprisingly fun to make, so here we are! Hope you enjoyed reading this, or at least laughed at this absurd nonsense.
+I hope you have a great life! Bye!
++
+_[Upload Date: September 8, 2020]
++
+_[Revision Number: 6]
++
+_[Time: 10:10 PM EST]
