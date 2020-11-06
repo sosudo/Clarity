@@ -1,6 +1,6 @@
-name: An Existential Lemon - Requirements
+name: An Existential Lemon Requirements
 
-title: An Existential Lemon - Requirements
+title: An Existential Lemon Requirements
 
 content:
 ibm-watson>=4.6.0
