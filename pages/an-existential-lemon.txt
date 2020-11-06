@@ -25,10 +25,10 @@ Since I wanted to see how people felt, I chose to do an emotional analysis on th
 I used IBM Watson's Natural Language Understanding API to conduct the analysis, and I wrote it in Python 3.
 +
 Here is the requirements.txt file for my code:
-#[An Existential Lemon Requirements]
+@[An Existential Lemon Requirements>/an-existential-lemon-requirements.txt]
 +
 Here is the app.py file for my code:
-#[An Existential Lemon App]
+@[An Existential Lemon App>/an-existential-app.py]
 +
 ![Angles]
 The standard unit of angles (and in turn, slopes) would be a _[Radial Unit], denoted as Ru.
